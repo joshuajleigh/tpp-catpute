@@ -140,6 +140,12 @@ another picture about OSes
 --newpage
 --exec timeout 6 feh -Z -B black catpute-pics/os.jpg
 
+--newpage
+--center continueing historcally backwards
+--center and stylistcally downhill
+--center we will next discuss...
+--newpage
+
 
 --huge The   dark   days
 --huge before   the   OS
@@ -212,7 +218,7 @@ Included was error checking.
 ---
 
 When the device jammed, there was an error.
-Really- that was a feature, not a bug.
+Feature, not a bug predates electricity.
 
 --newpage
 
@@ -272,4 +278,10 @@ but both humans and computers remain
 
 --center thank you
 
-pictures: 
+
+
+This amalgamation of text and pictures
+is available at github:
+
+
+https://github.com/joshuajleigh/tpp-catpute
